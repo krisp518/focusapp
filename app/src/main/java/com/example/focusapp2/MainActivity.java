@@ -113,6 +113,7 @@ public class MainActivity extends AppCompatActivity {
     public void updateMessage(View view){
         message.setText("\"" + inputMessage.getText() + "\"");
         inputMessage.setText(" ");
+        inputMessage.clearFocus();
     }
 
 
