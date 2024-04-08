@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">focusapp2</string>
+    <string name="dummy" />
 </resources>
