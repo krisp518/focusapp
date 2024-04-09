@@ -15,7 +15,8 @@ This project allows users to upload an image from their gallery as well as type 
 <strong>FINISH IMAGE FUNCTION (THIS CAME TRUE) </strong><br/>
 
 <h2>Key learnings</h2>
-I learned how to navigate and use Android Studio IDE, android app UI and layout, some java code related to making functions run, and how important importing libraries were. Sprint goal taught me how much I could accomplish if I really locked in and honed into just one feasible goal. 
+I learned how to navigate and use Android Studio IDE, android app UI and layout, some java code related to making functions run, and how important importing libraries were. 
+Sprint goal taught me how much I could accomplish if I really locked in and honed into just one feasible goal. 
 
 <h2>Running your project</h2>
 To be honest, I am not yet sure because I installed my app through Android Studio. This will be something I will look into in the future. 
